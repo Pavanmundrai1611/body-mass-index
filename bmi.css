@@ -1,0 +1,17 @@
+body{
+    background-color: cadetblue;
+    font-family: cursive;
+    font-size: 25px;
+}
+.box{
+    position: relative;
+    left:25%;
+    top:50%;
+    width:fit-content;
+    padding: 15px;
+    height: 530px;
+    background-color: darksalmon;
+    text-align: center;
+}
+#bmiresult{background-color:rgb(24, 89, 187);}
+input,button{font-size: 30px; border-radius: 10px;}
